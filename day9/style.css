@@ -1,0 +1,67 @@
+.center-box{
+    position: relative;
+    height: 600px;
+    width: 700px;
+    border: 2px solid black;
+    margin: auto;
+}
+.sq{
+    border: 3px solid royalblue;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+}
+.square1{
+    top: 0px;
+    left: 0px;
+}
+.square2{
+    top: 0px;
+    right: 0px;
+
+}
+.square3{
+    left: 0px;
+    bottom: 0px;
+}
+.square4{
+    right:0px;
+    bottom: 0px;
+}
+
+.ci{
+    position: absolute;
+    border: 3px solid red;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+
+}
+.circle1{
+    left:0px;
+    right:0px ;
+    top: 0px;
+    margin: auto;
+
+}
+.circle2{
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    margin: auto;
+
+}
+.circle3{
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    margin: auto;
+
+}
+.circle4{
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+    margin: auto;
+
+}
