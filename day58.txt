@@ -1,0 +1,33 @@
+                                                   Day 58Task
+                                            MongoDB & Data Modeling
+1.What is MongoDB? Explain MongoDB Terminologies.
+MongoDB
+
+ ~MongoDB is a schema-less database,
+  which means the database can manage data without the need for a blueprint.
+
+ ~Data in MongoDB is stored in documents with key-value pairs instead of rows and columns,
+  which makes the data more flexible when compared to SQL databases.
+
+MongoDB Terminologies.
+
+ ~Database: In simple words, it can be called the physical container for data.
+
+ ~Collection: A group of database documents can be called a collection
+
+ ~Document: A set of key-value pairs can be designated as a document.
+
+2.What are the facets of application that can be realizedby implementing proper and optimized datamodel?
+
+The writer goes on to define the four criteria of a good data model: 
+
+  (1) Data in a good model can be easily consumed.
+  (2) Large data changes in a good model are scalable.
+  (3) A good model provides predictable performance. 
+  (4) A good model can adapt to changes in requirements,
+      but not at the expense of 1-3.”
+
+3.Install MongoDB on your localsystem?
+
+ ~MongoDB Installed in my localsystem successfully
+  
